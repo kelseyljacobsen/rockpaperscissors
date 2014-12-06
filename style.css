@@ -1,0 +1,23 @@
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 60px;
+	text-align: center;
+}
+
+.options {
+	padding: 10px;
+	margin: auto;
+	width: 100%;
+}
+
+img:hover {
+	cursor: hand;
+}
+
+img {
+	margin: auto;
+	padding-left: 70px;
+	vertical-align: center;
+}
+
+
